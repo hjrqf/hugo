@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>一个网站</title>
+    <link>http://localhost:51151/</link>
+    <description>Recent content on 一个网站</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2024 14:39:35 +0800</lastBuildDate>
+    <atom:link href="http://localhost:51151/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>标题一</title>
+      <link>http://localhost:51151/posts/my-first-post/</link>
+      <pubDate>Wed, 31 Jul 2024 14:39:35 +0800</pubDate>
+      <guid>http://localhost:51151/posts/my-first-post/</guid>
+      <description>这只是一个网站，很普通的一个&#xA;但是这个只是起一个示例的</description>
+    </item>
+    <item>
+      <title>标题二</title>
+      <link>http://localhost:51151/posts/my-first-post---%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Wed, 31 Jul 2024 14:39:35 +0800</pubDate>
+      <guid>http://localhost:51151/posts/my-first-post---%E5%89%AF%E6%9C%AC/</guid>
+      <description>本人初中毕业，目前准备上技校</description>
+    </item>
+  </channel>
+</rss>
